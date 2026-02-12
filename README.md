@@ -5,7 +5,7 @@ Foi utilizado um desafio de Computer Model Vision do roboflow como tema principa
 Este projeto implementa um pipeline completo de visão computacional para detectar e quantificar áreas afetadas por fungos em folhas. O sistema combina **índice ExG (Excess Green)** para segmentação da folha e **análise de textura multiescala** com **implementação manual de operações morfológicas** para identificar automaticamente regiões infectadas.
 
 
-# 🍃 Detecção de Fungos em Folhas (95% de Precisão)
+# 🍃 Detecção de Fungos em Folhas (90% de Precisão)
 
 Sistema automatizado para detecção e análise de fungos em imagens de folhas utilizando técnicas avançadas de processamento digital de imagens **com implementação manual de operações morfológicas**.
 
