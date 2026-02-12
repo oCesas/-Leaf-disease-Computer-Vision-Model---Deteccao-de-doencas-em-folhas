@@ -13,7 +13,7 @@ Sistema automatizado para detecção e análise de fungos em imagens de folhas u
 
 - Implementação manual de erosão, dilatação, abertura e fechamento morfológico
 - Índice ExG para segmentação robusta de vegetação
-- Variância de textura multiescala** usando janelas deslizantes
+- Variância de textura multiescala
 - Processamento paralelo com joblib
 
 ##  Características
