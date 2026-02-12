@@ -1,0 +1,2 @@
+# -Leaf-disease-Computer-Vision-Model---Detec-o-de-doen-as-em-folhas
+Aplicação de Processamento de Imagens desenvolvida com técnicas implementadas manualmente conforme conteúdos da disciplina. O projeto apresenta solução para desafio selecionado, com foco em originalidade, eficiência algorítmica e documentação clara, organizada em Jupyter Notebook. Desafio do roboflow usando como tema do projeto. Link no readme
