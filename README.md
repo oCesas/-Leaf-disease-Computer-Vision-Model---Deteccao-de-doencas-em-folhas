@@ -1,6 +1,7 @@
 # -Leaf-disease-Computer-Vision-Model---Detec-o-de-doen-as-em-folhas
 Aplicação de Processamento de Imagens desenvolvida com técnicas implementadas manualmente conforme conteúdos da disciplina. O projeto apresenta solução para desafio selecionado, com foco em originalidade, eficiência algorítmica e documentação clara, organizada em Jupyter Notebook.
-Foi utilizado um desafio de Computer Model Vision do roboflow como tema principal: Link - https://universe.roboflow.com/roboflow-100/leaf-disease-nsdsr
+Foi utilizado um desafio de Computer Model Vision do roboflow como tema principal: Link - https://universe.roboflow.com/roboflow-100/leaf-disease-nsdsr.
+
 Este projeto implementa um pipeline completo de visão computacional para detectar e quantificar áreas afetadas por fungos em folhas. O sistema combina **índice ExG (Excess Green)** para segmentação da folha e **análise de textura multiescala** com **implementação manual de operações morfológicas** para identificar automaticamente regiões infectadas.
 
 
