@@ -172,6 +172,7 @@ EROSAO_BORDAS = 2                     # Pixels de erosão (0-5)
 ## 👥 Autor
 
 - **Cesai Marinho De Carvalho** - *Desenvolvimento inicial* - [oCesas](https://github.com/oCesas)
+- IAs de Auxílio: Chatgpt, Claude
 
 ## 📞 Contato
 
