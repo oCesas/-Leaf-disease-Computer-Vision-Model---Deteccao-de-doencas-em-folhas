@@ -1,4 +1,4 @@
-# -Leaf-disease-Computer-Vision-Model---Detec-o-de-doen-as-em-folhas
+# -Leaf-disease-Computer-Vision-Model---Deteccao-de-doencas-em-folhas
 Aplicação de Processamento de Imagens desenvolvida com técnicas implementadas manualmente conforme conteúdos da disciplina. O projeto apresenta solução para desafio selecionado, com foco em originalidade, eficiência algorítmica e documentação clara, organizada em Jupyter Notebook.
 Foi utilizado um desafio de Computer Model Vision do roboflow como tema principal: Link - https://universe.roboflow.com/roboflow-100/leaf-disease-nsdsr.
 
